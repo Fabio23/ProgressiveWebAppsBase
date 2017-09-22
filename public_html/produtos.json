@@ -22,5 +22,11 @@
     { "id": 21, "nome": "Produto 21", "preco": 1200.00 },
     { "id": 22, "nome": "Produto 22", "preco": 1300.00 },
     { "id": 23, "nome": "Produto 23", "preco": 1400.00 },
-    { "id": 24, "nome": "Produto 24", "preco": 1500.00 }
+    { "id": 24, "nome": "Produto 24", "preco": 1500.00 },
+    { "id": 25, "nome": "Produto 24", "preco": 1600.00 },
+    { "id": 26, "nome": "Produto 24", "preco": 1700.00 },
+    { "id": 27, "nome": "Produto 24", "preco": 1800.00 },
+    { "id": 28, "nome": "Produto 24", "preco": 1900.00 },
+    { "id": 29, "nome": "Produto 24", "preco": 2000.00 },
+    { "id": 30, "nome": "Produto 24", "preco": 2500.00 }
 ]
